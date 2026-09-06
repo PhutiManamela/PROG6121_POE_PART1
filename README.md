@@ -31,7 +31,7 @@ A GitHub Actions workflow at [`.github/workflows/validate-docs.yml`](./.github/w
 
 Unlisted YouTube walkthrough of the planning documents, ERD decisions, endpoint plan choices, and a live run of the SQL script in SSMS:
 
-**[Watch here](https://youtu.be/YOUR-VIDEO-ID)** *(replace with your actual unlisted video link)*
+**[Watch here] (https://youtu.be/pel2TtPONrU?si=vZKNJygwRrMd79dU)** 
 
 ## AI Disclosure
 
