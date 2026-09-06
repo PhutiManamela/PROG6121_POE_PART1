@@ -23,7 +23,7 @@ A GitHub Actions workflow at [`.github/workflows/validate-docs.yml`](./.github/w
 
 **Build status:**
 
-![CI/CD passing](./docs/ci-success.png)
+![CI/CD passing](./docs/cidc-green-build.png)
 
 *(Screenshot above shows the green passing build — replace `ci-success.png` with your own screenshot from the Actions tab.)*
 
